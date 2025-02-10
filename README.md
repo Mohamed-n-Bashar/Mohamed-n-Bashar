@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <img src="images/neon.gif">
 
-<h3 align="center" width = "100px" >"Write the code, let it flow, make it fast, make it glow."⚡🔥</h3>
+<h3 align="center" width = "100px" >🔥⚡Write the code, let it flow, make it fast, make it glow.⚡🔥</h3>
 
 ---
 <h3 align="left">🛠 Language and tools</h3>
